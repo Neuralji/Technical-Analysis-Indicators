@@ -3,3 +3,4 @@ All technical analysis indicators code in python - No need for any additional mo
 
 Currently Code for following available:
 1. Simple Moving Average(SMA)
+2. Exponential Moving Average(EMA)
